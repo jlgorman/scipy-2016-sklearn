@@ -87,7 +87,7 @@ The code examples in this tutorial should be compatible to Python 2.7,
 Python 3.4, and Python 3.5.
 
 After obtaining the material, we **strongly recommend** you to open and execute the Jupyter Notebook
-`jupter notebook check_env.ipynb` that is located at the top level of this repository. Inside the repository, you can open the notebook
+`jupyter notebook check_env.ipynb` that is located at the top level of this repository. Inside the repository, you can open the notebook
 by executing
 
 ```bash
